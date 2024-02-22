@@ -1,3 +1,7 @@
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Yoo!+👋;+I'm+Irfan!;" />
+</h1>
+
 👋 Hey there, fellow explorer! Welcome to my GitHub universe, where pixels meet possibilities!
 
 🤖 Engaged in an eternal tango with machine learning, I dance through datasets and algorithms, sculpting insights and chasing the elusive 'aha' moments that redefine what's possible.
